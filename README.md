@@ -19,3 +19,5 @@ questions
 - Rasa and Rakta is very interlinked
 - where does digestion come into this? 
   - Majja is priority and stimulator of that and it feeds into the Meda 
+
+
