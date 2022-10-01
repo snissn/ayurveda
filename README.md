@@ -4,8 +4,8 @@ Dhātus (dhä·tōōs), n.pl. ( from Sanskrit धातु dhātu - layer, strat
 
 They consist of:
 
-1. Rasa: Plasma
-2. Rakta: Blood
+1. Rasa: Plasma (Inflammation)
+2. Rakta: Blood (Immunity)
 3. Mamsa: Muscle
 4. Meda: Fat
 5. Asthi: Bone
@@ -14,4 +14,8 @@ They consist of:
 
 questions 
 - difference between rasa and rakta? 
-- where does digestion come into this?
+  - Rasa inflammation vs Rakta is Immunity
+   - Blood lab works is Rakta 
+- Rasa and Rakta is very interlinked
+- where does digestion come into this? 
+  - Majja is priority and stimulator of that and it feeds into the Meda 
