@@ -4,10 +4,10 @@ Dhātus (dhä·tōōs), n.pl. ( from Sanskrit धातु dhātu - layer, strat
 
 They consist of:
 
-Rasa: Plasma
-Rakta: Blood
-Mamsa: Muscle
-Meda: Fat
-Asthi: Bone
-Majja: Nervous Tissue (marrow (bone and spinal))
-Shukra & Arthava: Male & Female Reproductive Tissues
+1. Rasa: Plasma
+2. Rakta: Blood
+3. Mamsa: Muscle
+4. Meda: Fat
+5. Asthi: Bone
+6. Majja: Nervous Tissue (marrow (bone and spinal))
+7. Shukra & Arthava: Male & Female Reproductive Tissues
