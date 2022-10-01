@@ -11,3 +11,7 @@ They consist of:
 5. Asthi: Bone
 6. Majja: Nervous Tissue (marrow (bone and spinal))
 7. Shukra & Arthava: Male & Female Reproductive Tissues
+
+questions 
+- difference between rasa and rakta? 
+- where does digestion come into this?
